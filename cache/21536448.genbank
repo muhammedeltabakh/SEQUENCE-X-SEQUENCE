@@ -1,0 +1,186 @@
+LOCUS       NM_002622               1296 bp    mRNA    linear   PRI 23-SEP-2005
+DEFINITION  Homo sapiens prefoldin 1 (PFDN1), mRNA.
+ACCESSION   NM_002622
+VERSION     NM_002622.3  GI:21536448
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Catarrhini;
+            Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1296)
+  AUTHORS   Simons,C.T., Staes,A., Rommelaere,H., Ampe,C., Lewis,S.A. and
+            Cowan,N.J.
+  TITLE     Selective contribution of eukaryotic prefoldin subunits to actin
+            and tubulin binding
+  JOURNAL   J. Biol. Chem. 279 (6), 4196-4203 (2004)
+   PUBMED   14634002
+REFERENCE   2  (bases 1 to 1296)
+  AUTHORS   Bruneel,A., Labas,V., Mailloux,A., Sharma,S., Vinh,J.,
+            Vaubourdolle,M. and Baudin,B.
+  TITLE     Proteomic study of human umbilical vein endothelial cells in
+            culture
+  JOURNAL   Proteomics 3 (5), 714-723 (2003)
+   PUBMED   12748950
+REFERENCE   3  (bases 1 to 1296)
+  AUTHORS   Martin-Benito,J., Boskovic,J., Gomez-Puertas,P., Carrascosa,J.L.,
+            Simons,C.T., Lewis,S.A., Bartolini,F., Cowan,N.J. and
+            Valpuesta,J.M.
+  TITLE     Structure of eukaryotic prefoldin and of its complexes with
+            unfolded actin and the cytosolic chaperonin CCT
+  JOURNAL   EMBO J. 21 (23), 6377-6386 (2002)
+   PUBMED   12456645
+REFERENCE   4  (bases 1 to 1296)
+  AUTHORS   Hartl,F.U. and Hayer-Hartl,M.
+  TITLE     Molecular chaperones in the cytosol: from nascent chain to folded
+            protein
+  JOURNAL   Science 295 (5561), 1852-1858 (2002)
+   PUBMED   11884745
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 1296)
+  AUTHORS   Rommelaere,H., De Neve,M., Neirynck,K., Peelaers,D.,
+            Waterschoot,D., Goethals,M., Fraeyman,N., Vandekerckhove,J. and
+            Ampe,C.
+  TITLE     Prefoldin recognition motifs in the nonhomologous proteins of the
+            actin and tubulin families
+  JOURNAL   J. Biol. Chem. 276 (44), 41023-41028 (2001)
+   PUBMED   11535601
+REFERENCE   6  (bases 1 to 1296)
+  AUTHORS   Munnia,A., Schutz,N., Romeike,B.F., Maldener,E., Glass,B., Maas,R.,
+            Nastainczyk,W., Feiden,W., Fischer,U. and Meese,E.
+  TITLE     Expression, cellular distribution and protein binding of the glioma
+            amplified sequence (GAS41), a highly conserved putative
+            transcription factor
+  JOURNAL   Oncogene 20 (35), 4853-4863 (2001)
+   PUBMED   11521196
+REFERENCE   7  (bases 1 to 1296)
+  AUTHORS   Cowan,N.J. and Lewis,S.A.
+  TITLE     A chaperone with a hydrophilic surface
+  JOURNAL   Nat. Struct. Biol. 6 (11), 990-991 (1999)
+   PUBMED   10542082
+REFERENCE   8  (bases 1 to 1296)
+  AUTHORS   Hansen,W.J., Cowan,N.J. and Welch,W.J.
+  TITLE     Prefoldin-nascent chain complexes in the folding of cytoskeletal
+            proteins
+  JOURNAL   J. Cell Biol. 145 (2), 265-277 (1999)
+   PUBMED   10209023
+REFERENCE   9  (bases 1 to 1296)
+  AUTHORS   Horrigan,S.K., Bartoloni,L., Speer,M.C., Fulton,N., Kravarusic,J.,
+            Ramesar,R., Vance,J.M., Yamaoka,L.H. and Westbrook,C.A.
+  TITLE     A radiation hybrid breakpoint map of the acute myeloid leukemia
+            (AML) and limb-girdle muscular dystrophy 1A (LGMD1A) regions of
+            chromosome 5q31 localizing 122 expressed sequences
+  JOURNAL   Genomics 57 (1), 24-35 (1999)
+   PUBMED   10191080
+REFERENCE   10 (bases 1 to 1296)
+  AUTHORS   Vainberg,I.E., Lewis,S.A., Rommelaere,H., Ampe,C.,
+            Vandekerckhove,J., Klein,H.L. and Cowan,N.J.
+  TITLE     Prefoldin, a chaperone that delivers unfolded proteins to cytosolic
+            chaperonin
+  JOURNAL   Cell 93 (5), 863-873 (1998)
+   PUBMED   9630229
+REFERENCE   11 (bases 1 to 1296)
+  AUTHORS   Iijima,M., Kano,Y., Nohno,T. and Namba,M.
+  TITLE     Cloning of cDNA with possible transcription factor activity at the
+            G1-S phase transition in human fibroblast cell lines
+  JOURNAL   Acta Med. Okayama 50 (2), 73-77 (1996)
+   PUBMED   8744932
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Y17392.1.
+            [WARNING] On Feb 28, 2006 this sequence was replaced by
+            gi:88999575.
+            On Jun 21, 2002 this sequence version replaced gi:12408673.
+            
+            Summary: Prefoldin 1 is a heterohexameric chaperone protein which
+            assists in the correct folding of other proteins. It binds
+            specifically to cytosolic chaperonin and transfers target proteins.
+            Prefoldin may function by selectively targeting nascent actin and
+            tubulin chains pending their transfer to cytosolic chaperonin for
+            final folding and/or assembly. It promotes folding in an
+            environment in which there are many competing pathways for
+            nonnative proteins.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1296
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q31"
+     gene            1..1296
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /db_xref="GeneID:5201"
+                     /db_xref="HGNC:HGNC:8866"
+                     /db_xref="HPRD:05357"
+                     /db_xref="MIM:604897"
+     CDS             6..374
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /GO_function="GO:0003700 - transcription factor activity
+                     [Evidence TAS] [PMID 8744932]; GO:0051082 - unfolded
+                     protein binding [Evidence IEA]"
+                     /GO_process="GO:0007049 - cell cycle [Evidence TAS] [PMID
+                     8744932]; GO:0006457 - protein folding [Evidence IEA]"
+                     /note="prefoldin subunit 1"
+                     /codon_start=1
+                     /product="prefoldin 1"
+                     /protein_id="NP_002613.2"
+                     /db_xref="GI:21536449"
+                     /db_xref="CCDS:CCDS4222.1"
+                     /db_xref="GeneID:5201"
+                     /db_xref="HGNC:HGNC:8866"
+                     /db_xref="HPRD:05357"
+                     /db_xref="MIM:604897"
+                     /translation="MAAPVDLELKKAFTELQAKVIDTQQKVKLADIQIEQLNRTKKHA
+                     HLTDTEIMTLVDETNMYEGVGRMFILQSKEAIHSQLLEKQKIAEEKIKELEQKKSYLE
+                     RSVKEAEDNIREMLMARRAQ"
+     STS             832..1096
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /standard_name="WI-20399"
+                     /db_xref="UniSTS:26501"
+     STS             995..1087
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /standard_name="GDB:451806"
+                     /db_xref="UniSTS:157373"
+     STS             1022..1220
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /standard_name="RH10742"
+                     /db_xref="UniSTS:20620"
+     regulatory      1256..1261
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+     polyA_site      1281
+                     /gene="PFDN1"
+                     /gene_synonym="PDF; PFD1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 ccaagatggc cgcccccgtg gatctagagc tgaagaaggc cttcacagag cttcaagcca
+       61 aagttattga cactcaacag aaggtgaagc tcgcagacat acagattgaa cagctaaaca
+      121 gaacgaaaaa gcatgcacat cttacagata cagagatcat gactttggta gatgagacta
+      181 acatgtatga aggtgtagga agaatgttta ttcttcagtc caaggaagca attcacagtc
+      241 agctgttaga gaagcagaaa atagcagaag aaaaaattaa agaactagaa cagaaaaagt
+      301 cctacctgga gcgaagcgtt aaggaagctg aggacaacat ccgggagatg ctgatggcac
+      361 gaagggccca gtagggagcc tctctgggaa gctcttcctc ctgcccctcc cattcctggt
+      421 gggggcagag gagtgtctgc agggaaacag cttctcctct gccccgatgg atgctttatt
+      481 tggatggcct ggcaacatca cattttctgc atcaccctga gccccatttg cttcccagcc
+      541 ctggagtttt tacccggctt tgcctgccac ctctgcccag gacactcttc cctctcggga
+      601 tgtgtgatga actcccagga gagggaagat gggagccagg gcaagatagg aagctctgcc
+      661 tgagctttcc actaggcacg ccagccagac caataaaaag cgtctgtccc actctgctaa
+      721 gcctggtttt cttgagcaga gggatggaac agagggtgag agaggcagtg gccgtctcca
+      781 cctcagctcc tgctccctct gcatcagagc ccttcctttc ttgggggatg ggccttgccc
+      841 tcttctcttt tcccttcctg tacctttgac taacgctcag cttccgggcc tgcatgcagt
+      901 agacagaaga ggaagaaaga acagatgttc acagctgaat ctcagtgaac agaatagcag
+      961 tccctggatg gcagtctgcc taaagattcc tttccctgcc ttctcccata cattccaaaa
+     1021 ggaagttcaa cagtaagcag cacctccaag actgtctcct tttggccaat atcataagat
+     1081 ggacgccata atcctgaggc ctcctagagg ctgagggggc aacggtgtga tccagctggc
+     1141 tcatcccagc ccaggtgggc caattattca attttcaaga attttgttgc aagccagttg
+     1201 tcaaacacag ccattataat tatgtaaatt tgcaaattat gttaaaaaca aggacaataa
+     1261 atattcaaaa tgcatcccta aaaaaaaaaa aaaaaa
+//
+

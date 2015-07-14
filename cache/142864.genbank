@@ -1,0 +1,94 @@
+LOCUS       BACDNAE                 2001 bp    DNA     linear   BCT 26-APR-1993
+DEFINITION  B.subtilis dnaE gene encoding DNA primase, complete cds.
+ACCESSION   M10040
+VERSION     M10040.1  GI:142864
+KEYWORDS    DNA primase; primase.
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+REFERENCE   1  (bases 1 to 2001)
+  AUTHORS   Wang,L.F., Price,C.W. and Doi,R.H.
+  TITLE     Bacillus subtilis dnaE encodes a protein homologous to DNA primase
+            of Escherichia coli
+  JOURNAL   J. Biol. Chem. 260 (6), 3368-3372 (1985)
+   PUBMED   3919021
+COMMENT     Original source text: B.subtilis DNA, clone pCPS1.
+            Draft entry and sequence in computer readable form kindly provided
+            by L.-F.Wang, 22-AUG-1985.
+            The dnaE gene, coding for DNA primase, the polymerase that
+            synthesizes small RNA primers for the Okazaki fragments made during
+            discontinuous DNA replication, is located adjacent and 3' to the
+            rpoD gene.  The dnaE gene has a weak ribosomal binding site at
+            positions 5-14, probably uses a high proportion of rare codons and
+            has no obvious promoter sequences either several hundred bases
+            upstream or in the dnaE-rpoD intercistronic region.  It is likely
+            that dnaE and rpoD comprise part of an operon.
+            A possible heat shock promoter is found in the C-terminus of the
+            dnaE gene of B.subtilis (positions 1795-1799 and 1818-1824), which
+            resembles the heat shock promoter for the rpoD gene located in the
+            C-terminal region of the E.coli dnaG gene, and the B.subtilis
+            sigma-28 promoter.  Therefore the rpoD gene might be a heat shock
+            gene.
+FEATURES             Location/Qualifiers
+     source          1..2001
+                     /organism="Bacillus subtilis"
+                     /mol_type="genomic DNA"
+                     /strain="W168"
+                     /sub_strain="PY79"
+                     /db_xref="taxon:1423"
+     mRNA            <1..>2001
+                     /product="dnaE mRNA"
+     CDS             21..1832
+                     /note="DNA primase"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA22406.1"
+                     /db_xref="GI:142865"
+                     /translation="MGNRIPDEIVDQVQKSADIVEVIGDYVQLKKQGRNYFGLCPFHG
+                     ESTPSFSVSPDKQIFHCFGCGAGGNVFSFLRQMEGYSFAESVSHLADKYQIDFPDDIT
+                     VHSGARPESSGEQKMAEAHELLKKFYHHLLINTKEGQEALDYLLSRGFTKELINEFQI
+                     GYALDSWDFITKFLVKRGFSEAQMEKAGLLIRREDGSGYFDRFRNRVMFPIHDHHGAV
+                     VAFSGRALGSQQPKYMNSPETPLFHKSKLLYNFYKARLHIRKQERAVLFEGFADVYTA
+                     VSSDVKESIATMGTSLTDDHVKILRRNVEEIILCYDSDKAGYEATLKASELLQKKGCK
+                     VRVAMIPDGLDPDDYIKKFGGEKFKNDIIDASVTVMAFKMQYFRKGKNLSDEGDRLAY
+                     IKDVLKEISTLSGSLEQEVYVKQLASEFSLSQESLTEQLSVFSKQNKPADNSGETKTR
+                     RAHLTTKARQKRLRPAYENAERLLLAHMLRDRSVIKKVIDRVGFQFNIDEHRALAAYL
+                     YAFYEEGAELTPQHLMARVTDDHISQLLSDILMLQVNQELSEAELSDYVKKVLNQRNW
+                     SMIKEKEAERAEAERQKDFLRAASLAQEIVTLNRSLK"
+ORIGIN      2 bp upstream of RsaI site; map unit 1485.
+        1 gtacgacgga gtgttataag atgggaaatc ggataccaga tgaaattgtg gatcaggtgc
+       61 aaaagtcggc agatatcgtt gaagtcatag gtgattatgt tcaattaaag aagcaaggcc
+      121 gaaactactt tggactctgt ccttttcatg gagaaagcac accttcgttt tccgtatcgc
+      181 ccgacaaaca gatttttcat tgctttggct gcggagcggg cggcaatgtt ttctcttttt
+      241 taaggcagat ggaaggctat tcttttgccg agtcggtttc tcaccttgct gacaaatacc
+      301 aaattgattt tccagatgat ataacagtcc attccggagc ccggccagag tcttctggag
+      361 aacaaaaaat ggctgaggca catgagctcc tgaagaaatt ttaccatcat ttgttaataa
+      421 atacaaaaga aggtcaagag gcactggatt atctgctttc taggggcttt acgaaagagc
+      481 tgattaatga atttcagatt ggctatgctc ttgattcttg ggactttatc acgaaattcc
+      541 ttgtaaagag gggatttagt gaggcgcaaa tggaaaaagc gggtctcctg atcagacgcg
+      601 aagacggaag cggatatttc gaccgcttca gaaaccgtgt catgtttccg atccatgatc
+      661 atcacggggc tgttgttgct ttctcaggca gggctcttgg cagccagcag cctaagtata
+      721 tgaacagtcc tgaaaccccg ctctttcata aaagcaaact gctttacaat ttttataagg
+      781 cccgccttca tatcagaaag caggaaagag cagtcttatt tgaagggttt gctgatgtct
+      841 atacggccgt aagctcggat gtaaaggaaa gcatagccac gatgggaacg tctcttacag
+      901 atgatcatgt caagatcctg agaagaaacg tcgaagaaat cattctttgc tatgactctg
+      961 ataaagccgg ttatgaagcc accttaaaag cttcggagct tctgcaaaaa aaaggctgca
+     1021 aagtcagagt tgcaatgatt cctgacggat tggaccctga tgattacatc aaaaaattcg
+     1081 gcggggaaaa atttaaaaac gacattattg acgcaagtgt caccgtaatg gcgttcaaaa
+     1141 tgcaatattt ccgaaaagga aagaacctgt ccgatgaagg cgaccgccta gcttacatta
+     1201 aagacgtact gaaagaaatc agcacgcttt cagggtctct agagcaggaa gtctatgtaa
+     1261 agcagcttgc ttcagagttt tcgctttcac aggagtcttt aactgagcag ctgtctgttt
+     1321 tcagcaagca aaacaaacct gctgacaata gcggtgaaac taaaacgcgg cgagcgcatc
+     1381 tgacgacaaa agcaaggcaa aaacgtttgc gtccggcgta tgaaaatgca gaaaggctgt
+     1441 tactcgctca catgcttcga gatcggagcg tcatcaaaaa agtgattgac cgggtagggt
+     1501 ttcaatttaa tattgatgag caccgggcat tagccgctta tctttatgct ttttatgaag
+     1561 agggagccga gctgacgcct cagcatctga tggccagggt gacggatgat catataagcc
+     1621 agctcttgtc cgatatatta atgcttcagg ttaatcaaga gcttagcgaa gccgagttat
+     1681 cagattatgt aaaaaaagtg ttgaatcaaa gaaattggtc aatgataaaa gaaaaagagg
+     1741 cggaaagagc cgaagcagaa aggcaaaaag attttttaag agctgcttct ttggctcaag
+     1801 aaatcgttac attgaaccga tctttaaaat aactggagaa ctgatgagga gcatttattg
+     1861 gcaatgattc cttgcggagg agcaaataga tcgcttaacc tcatcatgaa ttgtcatttc
+     1921 attattcgca cattgttaaa ggcagttcac atagaaaacg cctgaatgga ccgaataaga
+     1981 atcataccgc ttatagaatt c
+//
+

@@ -1,0 +1,54 @@
+LOCUS       AB000263                 368 bp    mRNA    linear   PRI 05-FEB-1999
+DEFINITION  Homo sapiens mRNA for prepro cortistatin like peptide, complete
+            cds.
+ACCESSION   AB000263
+VERSION     AB000263.1  GI:2055231
+KEYWORDS    prepro cortistatin like peptide.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Fukusumi,S., Kitada,C., Takekawa,S., Kizawa,H., Sakamoto,J.,
+            Miyamoto,M., Hinuma,S., Kitano,K. and Fujino,M.
+  TITLE     Identification and characterization of a novel human
+            cortistatin-like peptide
+  JOURNAL   Biochem. Biophys. Res. Commun. 232 (1), 157-163 (1997)
+   PUBMED   9125122
+REFERENCE   2  (bases 1 to 368)
+  AUTHORS   Fukusumi,S.
+  TITLE     Identification and characterization of a human novel cortistatin
+            like peptide
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 368)
+  AUTHORS   Fukusumi,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-1997) Shoji Fukusumi, Takeda Chemical Ind. Ltd.,
+            Discovery Reserch Laboratories I; Wadai 10, Tsukuba, Ibaraki
+            300-42, Japan (Tel:0298-64-5039, Fax:0298-64-5000)
+FEATURES             Location/Qualifiers
+     source          1..368
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="phCSP6"
+                     /tissue_type="Brain"
+     CDS             6..323
+                     /codon_start=1
+                     /product="prepro cortistatin like peptide"
+                     /protein_id="BAA19770.1"
+                     /db_xref="GI:2055232"
+                     /translation="MPLSPGLLLLLLSGATATAALPLEGGPTGRDSEHMQEAAGIRKS
+                     SLLTFLAWWFEWTSQASAGPLIGEEAREVARRQEGAPPQQSARRDRMPCRNFFWKTFS
+                     SCK"
+ORIGIN      
+        1 acaagatgcc attgtccccc ggcctcctgc tgctgctgct ctccggggcc acggccaccg
+       61 ctgccctgcc cctggagggt ggccccaccg gccgagacag cgagcatatg caggaagcgg
+      121 caggaataag gaaaagcagc ctcctgactt tcctcgcttg gtggtttgag tggacctccc
+      181 aggccagtgc cgggcccctc ataggagagg aagctcggga ggtggccagg cggcaggaag
+      241 gcgcaccccc ccagcaatcc gcgcgccggg acagaatgcc ctgcaggaac ttcttctgga
+      301 agaccttctc ctcctgcaaa taaaacctca cccatgaatg ctcacgcaag tttaattaca
+      361 gacctgaa
+//
+
